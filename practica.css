@@ -1,0 +1,31 @@
+html {
+    box-sizing: border-box;
+    font-size: 3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+  }
+  
+  *,
+  *:before,
+  *:after {
+    box-sizing: inherit;
+  }
+  
+  body{
+      min-height: 100%;
+      min-width: 100%;
+  }
+  
+  input{
+    align-items: center;
+  }
+  
+  .header {
+    background-color: #CA47F8;
+    padding: 0;
+    color: white;
+    align-items: center;
+  }
+  
+  .list-element {
+    font-size: 1rem;
+  }
